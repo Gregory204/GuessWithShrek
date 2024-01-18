@@ -87,7 +87,7 @@ roses = pygame.mixer.Sound('Roses_Erect_2024.wav')
 roses.play(-1).set_volume(0.08)
 
 x = random.randrange(1, 5)
-y = random.randrange(6, 10)
+y = random.randrange(6, 11)
 correct_answer = random.randrange(x, y)
 
 start = pygame.image.load('green-start-button-on-transparent-background-free-png.webp').convert_alpha()
