@@ -12,6 +12,7 @@ Enter a number within the given range displayed on the screen.
 
 ### Win or Lose:
 If your guess is correct, Shrek will play you a jingle!
+
 If your guess is incorrect, Shrek will have something to say to you personally, and you'll lose the game.
 
 ### Instructions:
