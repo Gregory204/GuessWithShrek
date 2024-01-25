@@ -1,7 +1,7 @@
 # Guess With Shrek
 A simple number guessing game with a Shrek theme. Can you guess the correct number and win against Shrek's challenges? Give it your best guess and have fun!
 
-## How to Play
+## How to Play - 
 
 ### Start the Game:
 Click on the green start button to begin the game.
@@ -22,23 +22,23 @@ If you want to exit the game, click on the exit button.
 
 ## Game Overviews:
 
-### Winning Scenario
+### Winning Scenario - 
 Happy Shrek Image:
 <img width="1201" alt="Screenshot 2024-01-24 at 7 24 49 PM" src="https://github.com/Gregory204/GuessWithShrek/assets/131078905/e3b3fdd0-14ce-4ae7-aae6-0856af7b5509">
 
 Congratulations! You've beaten Shrek at his own game. Shrek seems surprised, and you win the challenge.
 
-### Losing Scenario
+### Losing Scenario -
 Mad Shrek Image:
 <img width="1156" alt="Screenshot 2024-01-24 at 7 23 42 PM" src="https://github.com/Gregory204/GuessWithShrek/assets/131078905/af8be474-c8d7-4209-85c3-205c20876cc3">
 
 Uh-oh! Shrek is not happy with your guess. Better luck next time, buddy!
 
-## Notes
+## Notes:
 
 The game features a countdown for added suspense and 2 soundtracks to jam to.
 Enjoy the Shrek-themed graphics and sound effects.
 Don't forget to press backspace/delete to return to the main menu from the instructions.
 
-# Conclusion
+# Conclusion:
 Have fun playing the Guess With Shrek! If you have any issues or suggestions, feel free to let us know.
