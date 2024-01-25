@@ -22,6 +22,9 @@ If you want to exit the game, click on the exit button.
 
 ## Game Overviews:
 
+### Starting Menu:
+<img width="1201" alt="Screenshot 2024-01-24 at 7 22 57 PM" src="https://github.com/Gregory204/GuessWithShrek/assets/131078905/a471a487-0af0-4f85-af12-00157ebeed23">
+
 ### Winning Scenario - 
 Happy Shrek Image:
 <img width="1201" alt="Screenshot 2024-01-24 at 7 24 49 PM" src="https://github.com/Gregory204/GuessWithShrek/assets/131078905/e3b3fdd0-14ce-4ae7-aae6-0856af7b5509">
